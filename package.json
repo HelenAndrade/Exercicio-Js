@@ -1,0 +1,24 @@
+{
+  "name": "exercicio-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "processar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelenAndrade/Exercicio-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HelenAndrade/Exercicio-Js/issues"
+  },
+  "homepage": "https://github.com/HelenAndrade/Exercicio-Js#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
